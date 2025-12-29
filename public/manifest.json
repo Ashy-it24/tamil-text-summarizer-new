@@ -1,0 +1,32 @@
+{
+  "name": "Tamil News Summarizer",
+  "short_name": "Tamil Summarizer",
+  "description": "AI-powered Tamil news text summarization with English translation and text-to-speech accessibility",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%2306b6d4;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:1' /></linearGradient></defs><rect width='192' height='192' fill='url(%23grad)'/><text x='96' y='110' font-size='100' font-weight='bold' fill='white' text-anchor='middle' font-family='Arial'>T</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:%2306b6d4;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:1' /></linearGradient></defs><rect width='512' height='512' fill='url(%23grad)'/><text x='256' y='310' font-size='280' font-weight='bold' fill='white' text-anchor='middle' font-family='Arial'>T</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "news"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect width='540' height='720' fill='%230f172a'/></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml"
+    }
+  ]
+}
